@@ -1,0 +1,7 @@
+fuel_type,annual_mileage_miles,annual_mileage_km,daily_mileage_km,flag,sample_size_all_cars
+Petrol,6200.0,9977.908,27.33673424657534,,9861
+Diesel,8300.0,13357.522,36.59595068493151,,9861
+Hybrid,8000.0,12874.72,35.27320547945205,,9861
+Plug-in hybrid,,,,[u],9861
+Battery electric,8900.0,14323.126,39.24144109589041,,9861
+All cars,7100.0,11426.314,31.3049698630137,,9861
